@@ -1,6 +1,6 @@
-package br.com.exaple.demo.other;
+package br.com.example.demo.other;
 
-import br.com.exaple.demo.base.model.BaseModel;
+import br.com.example.demo.base.model.BaseModel;
 import io.swagger.v3.oas.annotations.media.Schema;
 
 public class Other extends BaseModel {

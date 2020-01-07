@@ -1,8 +1,8 @@
-package br.com.exaple.demo.base.controller;
+package br.com.example.demo.base.controller;
 
 
-import br.com.exaple.demo.base.model.BaseModel;
-import br.com.exaple.demo.base.service.BaseService;
+import br.com.example.demo.base.model.BaseModel;
+import br.com.example.demo.base.service.BaseService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.http.HttpStatus;

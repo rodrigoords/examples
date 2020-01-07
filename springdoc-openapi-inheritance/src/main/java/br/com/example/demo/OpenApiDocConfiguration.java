@@ -1,4 +1,4 @@
-package br.com.exaple.demo;
+package br.com.example.demo;
 
 import io.swagger.v3.oas.models.Components;
 import io.swagger.v3.oas.models.OpenAPI;

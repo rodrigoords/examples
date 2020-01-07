@@ -1,4 +1,4 @@
-package br.com.exaple.demo.base.model;
+package br.com.example.demo.base.model;
 
 import java.time.LocalDateTime;
 import java.util.Objects;

@@ -1,6 +1,6 @@
-package br.com.exaple.demo.hello;
+package br.com.example.demo.hello;
 
-import br.com.exaple.demo.base.controller.BaseRestController;
+import br.com.example.demo.base.controller.BaseRestController;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 

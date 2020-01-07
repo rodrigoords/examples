@@ -1,6 +1,6 @@
-package br.com.exaple.demo.other;
+package br.com.example.demo.other;
 
-import br.com.exaple.demo.base.service.BaseService;
+import br.com.example.demo.base.service.BaseService;
 import org.springframework.stereotype.Service;
 
 @Service

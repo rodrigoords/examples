@@ -1,6 +1,6 @@
-package br.com.exaple.demo.hello;
+package br.com.example.demo.hello;
 
-import br.com.exaple.demo.base.model.BaseModel;
+import br.com.example.demo.base.model.BaseModel;
 import io.swagger.v3.oas.annotations.media.Schema;
 
 @Schema

@@ -1,6 +1,6 @@
-package br.com.exaple.demo.base.service;
+package br.com.example.demo.base.service;
 
-import br.com.exaple.demo.base.model.BaseModel;
+import br.com.example.demo.base.model.BaseModel;
 import org.springframework.data.domain.Page;
 
 public abstract class BaseService<T extends BaseModel>{
